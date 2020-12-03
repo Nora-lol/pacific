@@ -3,7 +3,7 @@ body { background-color: #FFFFFF;
      font-family: Vernada, Arial, sans-serif;
      }
      #wrapper { margin-left: auto;
-               margin-right auto;
+               margin-right:   auto;
                width: 80%;
     }
     header { background-color: #002171;
